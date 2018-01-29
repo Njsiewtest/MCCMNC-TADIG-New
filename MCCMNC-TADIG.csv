@@ -1,0 +1,617 @@
+MCCMNC,Country,Operator,TADIG
+20201,Greece,Cosmote,GRCCO
+20205,Greece,Vodafone,GRCPF
+20205,Greece,Vodafone,GRCCT
+20209,Greece,Wind,GRCQT
+20210,Greece,Wind,GRCSH
+20404,Netherlands,Vodafone,NLDLT
+20407,Netherlands,Teleena,NLDTE
+20610,Belgium,Orange,BELMO
+20620,Belgium,Base,BELKO
+20801,France,Orange,FRAF1
+20810,France,SFR,FRAF2
+20815,France,Free Mobile,FRAFM
+20820,France,Bouygues Telecom,FRAK7
+21201,Monaco,Monaco Telecom,MCOM1
+21202,Monaco,Tel1,(no info)
+21210,Monaco,Monaco Telecom,MCOM2
+21401,Spain,Vodafone,ESPAT
+21403,Spain,Orange,ESPRT
+21405,Spain,Movistar,ESPT2
+21406,Spain,Vodafone,ESPVV
+21407,Spain,Movistar,ESPTE
+21409,Spain,Orange,ESPOR
+21630,Hungary,Magyar Telekom,HUNH2
+21670,Hungary,Vodafone,HUNVR
+21805,Bosnia,M-Tel,BIHMS
+21901,Croatia,Croatian Telekom,HRVCN
+21902,Croatia,Tele2,HRVT2
+22003,Serbia,mts,YUGTS
+22004,Montenegro,Crnogorski,YUGTM
+22201,Italy,TIM,ITASI
+22210,Italy,Vodafone,ITAOM
+22248,Italy,TIM,ITAGT
+22299,Italy,Wind Tre,ITAH3
+22601,Romania,Vodafone,ROMMF
+22603,Romania,Telekom Romanian,ROMCS
+22610,Romania,Orange,ROMFT
+22802,Switzerland,Sunrise,CHEDX 
+22803,Switzerland,Orange,CHEFT
+22851,Switzerland,Bebbicell,(no info)
+23001,Czech Republic,T-Mobile,CZERM
+23002,Czech Republic,O2,CZEET
+23003,Czech Republic,Vodafone,CZECM
+23101,Slovakia,Orange,SVKGT
+23203,Austria,T-Mobile,AUTMM / AUTTR
+23205,Austria,Hutchison 3,AUTHU
+23207,Austria,T-Mobile,AUTMM / AUTTR
+23210,Austria,Hutchison 3,AUTHU
+23403,Guernsey (UK),Airtel-Vodafone,GBRAJ
+23407,Guernsey (UK),Cable & Wireless ,GBRCA
+23410,UK,O2,GBRCN
+23415,UK,Vodafone,GBRVF
+23420,UK,Hutchison 3,GBRHU
+23430,UK,EE,GBRPP
+23433,UK,EE,GBRFT
+23450,Jersey (UK),Jersey Telecom,GBRJT
+23458,Isle of Man (UK),Manx Telecom,GBRMT
+23806,Denmark,H3G,DNKHU
+23820,Denmark,Telia,DNKIA
+23830,Denmark,Telia,DNKMX
+24002,Sweden,Hutchison 3,SWEHU
+24004,Sweden,Hutchison 3,SWEHU
+24007,Sweden,Tele2,SWEIQ
+24010,Sweden,Tele2,SWESM
+24202,Norway,Telia,NORK7
+24205,Norway,Network Norway,NORNN
+24403,Finland,DNA,FINTA
+24412,Finland,DNA,FIN2G
+24436,Finland,DNA,FIN2G
+24602,Lithuania,Bite,LTUK9
+24603,Lithuania,Tele2,LTU03
+24702,Latvia,Tele2,LVABC
+24705,Latvia,Bite,LVAK9
+24802,Estonia,Elisa,ESTRE
+24803,Estonia,Tele2,ESTRB
+25001,Russia,MTS,RUS01
+25012,Russia,Baykal Westcom,RUSKH
+25016,Russia,NTC,RUS16
+25017,Russia,UralTel,RUS17
+25039,Russia,Uraltel,RUSUT
+25099,Russia,Beeline,RUSBD
+25501,Ukraine,Vodafone,UKRUM
+25506,Ukraine,Lifecell,UKRAS
+25702,Belarus,MTS,BLR02
+25704,Belarus,Belarusian Telecom,BLRBT
+25901,Moldova,Orange,MDAFT
+26006,Poland,Play,POLP4
+26201,Germany,Telekom,DEUD1/AAZTD
+26202,Germany,Vodafone,DEUD2
+26203,Germany,E-Plus,DEUE1
+26207,Germany,O2,DEUE2
+26208,Germany,O2,DEUO2
+26601,Gibraltar,Gibtel,GIBGT
+26606,Gibraltar,CTS Mobile,GIBCS
+26609,Gibraltar,Eazi,GIBPP
+26801,Portugal,Vodafone,PRTTL
+26803,Portugal,NOS,PRTFT
+26806,Portugal,MEO,PRTTM
+27001,Luxembourg,POST,LUXPT
+27099,Luxembourg,Orange,LUXVM
+27201,Ireland,Vodafone,IRLEC
+27203,Ireland,EIR,IRLME
+27205,Ireland,Hutchison 3,IRLH3
+27401,Iceland,Siminn,ISLPS
+27404,Iceland,Viking,ISLVW
+27407,Iceland,IceCell,(no info)
+27408,Iceland,Siminn,ISLOC
+27411,Iceland,Nova,ISLNO
+27412,Iceland,Siminn,LSLTA
+27602,Albania,Vodafone,ALBVF
+27603,Albania,Eagle Mobile,ALBEM
+27604,Albania,Plus,ALBM4
+27801,Malta,Vodafone,MLTTL
+27821,Malta,GO,MLTGO
+27877,Malta,Melita,MLTMM
+28010,Cyprus,MTN,CYPSC
+28201,Georgia,Geocell,GEOGC
+28305,Armenia,Vivacell,ARM05
+28310,Armenia,Orange,ARMFT
+28403,Bulgaria,Vivacom,BGRVA
+28602,Turkey,Vodafone,TURTS
+28603,Turkey,Turk Telekom,TURIS
+28604,Turkey,Turk Telekom,TURAC
+28801,Faroe Islands,Foroya Tele,FROFT
+29001,Greenland,Tele Greenland,GRLTG
+29201,San Marino,Prima,SMOSM
+29341,Slovenia,Telekom Slovenije,SVNK8
+29370,Slovenia,Telemach,SVNVG
+29401,Macedonia,Telekom,MKDMM
+29502,Liechtenstein,Salt,LIEVE
+29701,Montenegro,Telenor,?
+29702,Montenegro,T-Mobile,MNETM
+29703,Montenegro,MTel,MNEMT
+34001,French West Indies,Orange Caraibe,GLPFT
+34020,French West Indies,Digicel,FRAF4
+36251,Netherlands Antilles,Telcell,ANTK9
+36269,Curacao,Digicel,ANTCT
+36291,Curacao,Setel,ANTK8
+36301,Aruba,SETAR,ABWSE
+36302,Aruba,Digicel,ABWDC
+36439,Bahamas,BTC,BHSBH
+36801,Cuba,C-Com,CUB01
+37001,Dominican Republic,Orange,DOM01
+37004,Dominican Republic,Trilogy,DOMAC
+37201,Haiti,Comcel,HTICL
+37412,Trinidad & Tobago,Bmobile,TTO12
+40001,Azerbaijan,Azercell,AZEAC
+40002,Azerbaijan,Bakcell,AZEBC
+40004,Azerbaijan,Azerfon,AZEAF
+40101,Kazakhstan,Beeline,KAZKT
+40277,Bhutan,TashiCell,BTNTC
+40402,India,Bharti Airtel,INDA9
+40403,India,Bharti Airtel,INDBL
+40404,India,IDEA Cellular,INDID
+40405,India,Vodafone,INDF1
+40407,India,IDEA Cellular,IND07
+40410,India,Bharti Airtel,INDAT
+40411,India,Vodafone,INDE1
+40412,India,IDEA Cellular,INDEH
+40414,India,IDEA Cellular,INDSP
+40416,India,Bharti Airtel,IND16
+40417,India,Aircel,IND03
+40418,India,Reliance Com,INDRH
+40419,India,IDEA Cellular,INDEK
+40420,India,Vodafone,INDHM
+40421,India,Loop Mobile,INDB1
+40422,India,IDEA Cellular,INDBO
+40424,India,IDEA Cellular,INDBI
+40425,India,Aircel,IND04
+40427,India,Vodafone,INDBM
+40428,India,Aircel,IND05
+40429,India,Aircel,IND06
+40430,India,Vodafone,INDCC
+40431,India,Bharti Airtel,INDMT
+40433,India,Aircel,IND08
+40435,India,Aircel,IND02
+40437,India,Aircel,IND01
+40440,India,Bharti Airtel,INDSC
+40441,India,Aircel,INDRC
+40442,India,Aircel,INDAC
+40443,India,Vodafone,INDBT
+40444,India,IDEA Cellular,INDSK
+40445,India,Bharti Airtel,INDJB
+40446,India,Vodafone,INDBK
+40449,India,Bharti Airtel,INDJH
+40456,India,IDEA Cellular,INDEU
+40467,India,Reliance Com,INDRM
+40468,India,MTNL,INDDL
+40469,India,MTNL,INDMB
+40470,India,Bharti Airtel,INDH1
+40474,India,BSNL,INDWB
+40478,India,IDEA Cellular,INDMP
+40482,India,IDEA Cellular,INDIH
+40483,India,Reliance Com,INDRK
+40487,India,IDEA Cellular,INDIR
+40489,India,IDEA Cellular,INDIU
+40490,India,Bharti Airtel,INDA2
+40491,India,Aircel,IND09
+40492,India,Bharti Airtel,INDA1
+40493,India,Bharti Airtel,INDA8
+40494,India,Bharti Airtel,INDA4
+40495,India,Bharti Airtel,INDA7
+40496,India,Bharti Airtel,INDA5
+40497,India,Bharti Airtel,INDA6
+40498,India,Bharti Airtel,INDA3
+40501,India,Reliance Com,INDR0
+40505,India,Reliance Com,INDRD
+40510,India,Reliance Com,INDR4
+40511,India,Reliance Com,INDR5
+40513,India,Reliance Com,INDR3
+40515,India,Reliance Com,INDR2
+40519,India,Reliance Com,INDRR
+40520,India,Reliance Com,INDRT
+40521,India,Reliance Com,INDR6
+40551,India,Bharti Airtel,IND14
+40552,India,Bharti Airtel,IND12
+40553,India,Bharti Airtel,IND11
+40554,India,Bharti Airtel,IND10
+40555,India,Bharti Airtel,IND13
+40556,India,Bharti Airtel,IND15
+40570,India,IDEA Cellular,INDIB
+41006,Pakistan,Telenor,PAKTP
+41007,Pakistan,Warid,PAKWA
+41240,Afghanistan,MTN,AFGAR
+41250,Afghanistan,Etisalat,AFGEA
+41280,Afghanistan,Afghantel,AFGAT
+41301,Sri Lanka,Mobitel,LKA71
+41303,Sri Lanka,Etisalat,LKAK8
+41305,Sri Lanka,Airtel,LKAAT
+41308,Sri Lanka,Hutchison 3,LKAHT
+41401,Myanmar,MPT,MMRPT
+41405,Myanmar,Ooredoo,MMROM
+41501,Lebanon,Alfa,LBNFL
+41601,Jordan,Zain,JORFL
+41603,Jordan,Umniah,JORUM
+41702,Syria,MTN,SYRSP
+41840,Iraq,Korek,IRQKK
+41903,Kuwait,Wataniya,KWTNM
+41904,Kuwait,Viva,KWTKT
+42003,Saudi Arabia,Mobily,SAUET
+42004,Saudi Arabia,Zain,SAUZN
+42101,Yemen,Sabafon,YEMSA
+42102,Yemen,Spacetel,YEMSP
+42202,Oman,Oman Mobile,OMNGT
+42203,Oman,Nawras,OMNNT
+42402,UAE,Etisalat,?
+42403,UAE,Du,AREDU
+42505,Palestine,Jawwal,PSEJE
+42506,Palestine,Wataniya,PSEWM
+42601,Bahrain,Batelco,BHRBT
+42602,Bahrain,Vodafone,BHRMV
+42604,Bahrain,Viva,BHRST
+42701,Qatar,Ooredoo,QATQT
+42702,Qatar,Vodafone,QATB1
+42806,Mongolia,G-Mobile,??
+42888,Mongolia,Unitel,MNGMN
+42899,Mongolia,Mobicom,MNGMC
+42901,Nepal,Nepal Mobile,NPLNM
+42902,Nepal,Ncell,NPLM2
+43235,Iran,MTN,IRNMI
+43404,Uzbekistan,Beeline,UZBDU
+43407,Uzbekistan,UMS,UZB07
+43408,Uzbekistan,Uzbektelecom,UZB00
+43604,Tajikistan,Babilon Mobile,TJKK7
+43605,Tajikistan,Beeline,TJK91
+43709,Kyrgyzstan,NUR,KGZNT
+43802,Turkmenistan,TM-Cell,TKMAA
+44010,Japan,NTT DoCoMo,JPNDO
+44020,Japan,Softbank,JPNJP
+45002,South Korea,KT Freetel,KORKF
+45005,South Korea,SK Telekom,KORSK
+45008,South Korea,KT Freetel,KORKF
+45201,Vietnam,Mobifone,VNMMO
+45202,Vietnam,VNPT,VNMVI
+45204,Vietnam,Viettel,VNMVT
+45205,Vietnam,Vietnamobile,VNMVM
+45207,Vietnam,Gtel Mobile,VNMBL
+45400,Hong Kong,HKT,HKGTC
+45403,Hong Kong,Hutchison 3,HKGH3
+45404,Hong Kong,Hutchison 3,HKGHT
+45406,Hong Kong,SmarTone,HKGSM
+45410,Hong Kong,New World PCS,HKGNW
+45412,Hong Kong,CMHK,HKGPP
+45416,Hong Kong,HKT,HKGMC
+45419,Hong Kong,HKT,HKGM3
+45501,Macau,CTM,MACCT
+45503,Macau,Hutchison 3,MACHT
+45504,Macau,CTM,MACCT
+45601,Cambodia,Cellcard,KHMGM
+45602,Cambodia,Smart Axiata,KHMSM
+45604,Cambodia,Cadcomms,KHMFT
+45605,Cambodia,Applifone,KHMSC
+45606,Cambodia,Latelz,KHML1
+45609,Cambodia,Beeline,KHMST
+45611,Cambodia,Seatel,KHM3A
+45618,Cambodia,Metfone,KHMSH
+45701,Laos,Lao Telecom,LAOTC
+45708,Laos,Beeline,LAOTL
+46001,China,Unicom,CHNCU
+46006,China,Unicom,CHNCC
+46009,China,Unicom,CHNCN
+46601,Taiwan,FarEasTone,TWNFE
+46689,Taiwan,T-Star,TWNTG
+46693,Taiwan,Taiwan Mobile,TWNTM
+46697,Taiwan,Taiwan Mobile,TWNPC
+46699,Taiwan,Taiwan Mobile,TWNTA
+47002,Bangladesh,Robi,BGDAK
+47003,Bangladesh,Banglalink,BGDBL
+47007,Bangladesh,Warid,BGDWT
+47201,Maldives,Dhiraagu,MDV01
+47202,Maldives,Wataniya,MDVWM
+50212,Malaysia,Maxis,MYSBC
+50216,Malaysia,Digi,MYSMT
+50218,Malaysia,U Mobile,MYSMI
+50219,Malaysia,Celcom,MYSCC
+50501,Australia,Telstra,AUSTA
+50502,Australia,Optus,AUSOP
+50503,Australia,Vodafone,AUSVF
+50510,Norfolk Island,Norfolk Telecom,NFKNT
+51001,Indonesia,Indosat Ooredoo,IDNSL
+51008,Indonesia,Axis,IDNLT
+51010,Indonesia,Telkomsel,IDNTS
+51011,Indonesia,XL Axiata,IDNEX
+51021,Indonesia,Indosat Ooredoo,IDNIM
+51089,Indonesia,Hutchison 3,IDN89
+51401,Timor-Leste,Telkomsel,TLSTC
+51402,Timor-Leste,Timor Telecom,TLSK9
+51403,Timor-Leste,Telemor,TLSVT
+51502,Philippines,Globe,PHLGT
+51503,Philippines,SMART,PHLSR
+51505,Philippines,SMART,PHLDG
+51518,Philippines,CURE,PHLTA
+52000,Thailand,True Move,THACT
+52001,Thailand,AIS,THAAS
+52003,Thailand,AWN,THAWN
+52004,Thailand,True Move,THACA
+52005,Thailand,DTAC,THADT
+52018,Thailand,DTAC,THAWP
+52099,Thailand,True Move,THACO
+52501,Singapore,SingTel,SGPST
+52502,Singapore,SingTel,SGPML
+52503,Singapore,MobileOne,SGPM1
+52505,Singapore,StarHub,SGPSH
+52508,Singapore,StarHub,SGPMM
+52801,Brunei,DST,BRNBN
+52802,Brunei,Progresif,BRNBR
+52811,Brunei,DST,BRNDS
+53001,New Zealand,Vodafone,NZLBS
+53024,New Zealand,2degrees,NZLNH
+53703,Papua New Guinea,Digicel,PNGDP
+53988,Tonga,Digicel,TONDP
+54101,Vanuatu,TVL,VUT01
+54105,Vanuatu,Digicel,VUTDP
+54201,Fiji,Vodafone,FJIK9
+54202,Fiji,Digicel,FJIDP
+54601,New Caledonia,OPT,NCLPT
+54801,Cook Islands,Telecom Cook Islands,COKFT
+54900,Samoa,Digicel,WSMDP
+54927,Samoa,Bluesky,WSMFT
+60201,Egypt,Orange,EGYAR
+60202,Egypt,Vodafone,EGYMS
+60203,Egypt,Etisalat,EGYEM
+60301,Algeria,ATM Mobilis,DZAA1
+60303,Algeria,Wataniya,DZAWT
+60402,Morocco,Inwi,MARM3
+60501,Tunisia,Orange,TUNOR
+60600,Libya,Libyana,LBYLM
+60601,Libya,Al Madar,LBY01
+60701,Gambia,Gamcel,GMB01
+60702,Gambia,Africell,GMBAC
+60703,Gambia,Comium,GMBCM
+60704,Gambia,Qcell,GMBQC
+60801,Senegal,Orange,SENFT
+60802,Senegal,Tigo,SENSG
+60803,Senegal,Expresso,SENEX
+60902,Mauritania,Chinguitel,MRTCH
+60910,Mauritania,Mauritel Mobiles,MRTMM
+61002,Mali,Orange,MLIFT
+61101,Guinea,Orange,GINGS
+61103,Guinea,Intercel,GIN03
+61104,Guinea,MTN,GINAG
+61105,Guinea,Cellcom,GINCL
+61202,Cote d'Ivoire,Moov,CIV02
+61203,Cote d'Ivoire,Orange,CIV03
+61204,Cote d'Ivoire,Comium,CIVCM
+61302,Burkina Faso,Airtel,BFACT
+61303,Burkina Faso,Telecel,BFATL
+61404,Niger,Orange,NERFT
+61503,Togo,Moov,TGOK9
+61601,Benin,Libercom,BENLI
+61602,Benin,Etisalat,BENFT
+61605,Benin,Glo,(no info)
+61701,Mauritius,Orange,MUSCP
+61703,Mauritius,MTML,MUSMT
+61801,Liberia,Lonestar,LBRLC
+61804,Liberia,Comium,LBRCM
+61807,Liberia,Orange,LBR07
+61901,Sierra Leone,Airtel,SLECT
+61905,Sierra Leone,Africell,SLEAC
+62002,Ghana,Vodafone,GHAGT
+62003,Ghana,Tigo,GHAMT
+62006,Ghana,Airtel,GHAZN
+62007,Ghana,Glo,GHAGM
+62150,Nigeria,Glo Mobile,NGAGM
+62160,Nigeria,Etisalat,NGAEM
+62201,Chad,Airtel,TCDCT
+62203,Chad,Tigo,TCDML
+62301,Central African Rep,Atlantique,CAFAT
+62302,Central African Rep,Telcel,CAF02
+62303,Central African Rep,Orange,CAFFT
+62402,Cameroon,Orange,CMRFT
+62502,Cape Verde,Telecomunicacoes,CPVTM
+62601,Sao Tome,CST,STPST
+62703,Equatorial Guinea,Hits,GNQHT
+62802,Gabon,Moov,GABTL
+62803,Gabon,Celtel,GABCT
+62804,Gabon,Azur,GABFT
+62901,Congo,Airtel,COGCT
+62902,Congo,Azur,COGFT
+62907,Congo,Warid,COGWC
+63001,DR Congo,Vodacom,CODVC
+63002,DR Congo,Airtel,CODCT
+63089,DR Congo,Tigo,CODSA
+63090,DR Congo,Africell,CODAC
+63104,Angola,Movicel,AGOMV
+63203,Guinea-Bissau,Orange,GNBFT
+63301,Seychelles,Cable & Wireless,SYCCW
+63401,Sudan,Zain,SUDMO
+63407,Sudan,Sudatel,SDNTL
+63513,Rwanda,Tigo,RWATG
+63514,Rwanda,Airtel,RWAAR
+63601,Ethiopia,Ethio Telecom,ETH01
+63701,Somalia,Telesom,SOM01
+63902,Kenya,Safaricom,KENK8
+63905,Kenya,Essar Telecom,KENEC
+63907,Kenya,Orange,KENTK
+64002,Tanzania,Tigo,TZAMB
+64003,Tanzania,Zantel,TZAZN
+64004,Tanzania,Vodacom,TZAVC
+64114,Uganda,Orange,UGAOR
+64122,Uganda,Warid,UGACE
+64201,Burundi,Spacetel,BDIET
+64282,Burundi,Spacetel,BDIFT
+64301,Mozambique,mCel,MOZ01
+64303,Mozambique,Movitel,MOZVT
+64304,Mozambique,Vodacom,MOZVC
+64501,Zambia,Airtel,ZMBCE
+64503,Zambia,Zamtel,?
+64601,Madagascar,Airtel,MDGCO
+64602,Madagascar,Orange,MDGFT
+64604,Madagascar,Telma Mobile,MDGTM
+64700,Reunion,Orange,REUFT
+64710,Reunion,SFR,FRARE
+64803,Zimbabwe,Telecel,ZWEN3
+64903,Namibia,TN Mobile,NAM03
+65001,Malawi,Telekom Network Malawi,MWIK9
+65010,Malawi,Airtel,MWICT
+65101,Lesotho,Vodacom,LSOVL
+65102,Lesotho,Econet,LSOET
+65202,Botswana,Orange,BWAFT
+65204,Botswana,BeMobile,BWABC
+65310,Swaziland,Swazi MTN,?
+65501,South Africa,Vodacom,ZAFVC
+65507,South Africa,Cell-C,ZAFCC
+65902,South Sudan,MTN,SSDMN
+65904,South Sudan,Viva,SSDVC
+70267,Belize,Digicell,BLZ67
+70402,Guatemala,Tigo,GTMCM
+70403,Guatemala,Movistar,GTMTG
+70602,El Salvador,Digicel,SLVDC
+70603,El Salvador,Tigo,SLVTM
+70604,El Salvador,Movistar,SLVTS
+70802,Honduras,Tigo,HND02
+71203,Costa Rica,Claro,CRICL
+71204,Costa Rica,Movistar,CRITC
+71404,Panama,Digicel,PANDC
+71606,Peru,Movistar,PERMO
+71615,Peru,Bitel,PERVT
+71617,Peru,Entel,PERN3
+72207,Argentina,Movistar,ARGTM
+72402,Brazil,TIM,BRAK1
+72403,Brazil,TIM,BRAK2
+72404,Brazil,TIM,BRAK3
+72406,Brazil,VIVO,BRAV2
+72410,Brazil,VIVO,BRAV1
+72411,Brazil,VIVO,BRAV3
+72423,Brazil,VIVO,BRATC
+72439,Brazil,Nextel,BRAKA
+73002,Chile,Movistar,CHLTM
+73009,Chile,Nextel,CHLN3
+73603,Bolivia,Tigo,BOLTE
+73801,Guyana,Digicel,GUYUM
+74002,Ecuador,Alegro,ECUAL
+74404,Paraguay,Tigo,PRYTC
+74405,Paraguay,Nucleo,PRYNP
+74602,Suriname,Telesur,SURTG
+74603,Suriname,Digicel,SURDC
+74604,Suriname,Uniqa,SURK8
+74801,Uruguay,Antel,URYK9
+74807,Uruguay,Movistar,?
+90113,International,Antarctica,(no info)
+90114,International,AeroMobile,NORAM
+90115,International,OnAir,CHEOA
+90118,International,Maritime WMS,BMU01
+90119,International,Vodafone,?
+90128,International,Vodafone M2M,AAZVF
+90154,Netherlands,Teleena,AAZTE
+302220,Canada,Telus,CANTS
+302370,Canada,Rogers,CANMC
+302500,Canada,Videotron,CANVT
+302610,Canada,Bell,CANBM
+302720,Canada,Rogers,CANRW
+302780,Canada,SaskTel,CANOR
+310030,USA,AT&T,USACC
+310080,USA,AT&T,USAJR
+310150,USA,AT&T,USACG ??
+310170,USA,AT&T,USAPB
+310280,USA,AT&T,USACG ??
+310300,USA,T-Mobile,USAMI
+310320,USA,Cellular One,USAK5
+310380,USA,AT&T,USACG
+310410,USA,AT&T,USACG ??
+310450,USA,Cellular One,USACI
+310470,Guam,Docomo,GUMHT
+310640,USA,AT&T,USAAE
+310690,USA,Keystone,USACW
+310840,USA,Telna Mobile,USATL
+311270,USA,Verizon,USAVZ
+311480,USA,Verizon,USAVZ
+311890,USA,Verizon,USAVZ
+330110,Puerto Rico,Claro,PRICL
+334030,Mexico,Movistar,MEXMS
+334050,Mexico,AT&T Mexico,MEXIU
+334090,Mexico,Nextel,MEXN3
+338050,Jamaica,Digicel,JAMDC
+338180,Jamaica,Cable & Wireless,JAMCW
+342600,Barbados,Cable & Wireless,BRBCW
+344920,Antigua & Barbuda,Cable & Wireless,ATGCW
+346140,Cayman Islands,Cable & Wireless,CYMCW
+348170,BVI,Cable & Wireless,VGBCW
+352110,Grenada,Cable & Wireless ,GRDCW
+354860,Montserrat,Cable & Wireless,MSRCW
+356110,St Kitts & Nevis,Cable & Wireless ,KNACW
+358110,St Lucia,Cable & Wireless ,LCACW
+360110,St Vincent & Grenadines,Cable & Wireless ,VCTCW
+365840,Anguilla,Cable & Wireless,AIACW
+366110,Dominica,Cable & Wireless,DMACW
+374130,Trinidad & Tobago,Digicel,TTODL
+376350,Turks & Caicos,Cable & Wireless,TCACW
+405025,India,Tata,INDT0
+405027,India,Tata,INDTB
+405029,India,Tata,INDTD
+405030,India,Tata,INDTG
+405031,India,Tata,INDTH
+405032,India,Tata,INDT4
+405034,India,Tata,INDT1
+405035,India,Tata,INDT3
+405036,India,Tata,INDTK
+405037,India,Tata,INDT6
+405038,India,Tata,INDT5
+405039,India,Tata,INDTM
+405041,India,Tata,INDTO
+405042,India,Tata,INDTP
+405043,India,Tata,INDTR
+405044,India,Tata,INDT2
+405045,India,Tata,INDT7
+405046,India,Tata,INDT8
+405047,India,Tata,INDT9
+405799,India,IDEA Cellular,INDIM
+405800,India,Aircel,IND19
+405801,India,Aircel,IND23
+405802,India,Aircel,IND28
+405803,India,Aircel,IND22
+405804,India,Aircel,IND24
+405805,India,Aircel,IND21
+405806,India,Aircel,IND26
+405807,India,Aircel,IND29
+405808,India,Aircel,IND27
+405809,India,Aircel,IND20
+405810,India,Aircel,IND17
+405811,India,Aircel,IND18
+405812,India,Aircel,IND25
+405840,India,Reliance Jio,INDJ1
+405845,India,IDEA Cellular,INDAM
+405846,India,IDEA Cellular,INDIJ
+405848,India,IDEA Cellular,INDIK
+405849,India,IDEA Cellular,INDIE
+405850,India,IDEA Cellular,INDIO
+405852,India,IDEA Cellular,INDIT
+405853,India,IDEA Cellular,INDIW
+405854,India,Reliance Jio,INDJ2
+405855,India,Reliance Jio,INDJ3
+405856,India,Reliance Jio,INDJ4
+405857,India,Reliance Jio,INDJ5
+405858,India,Reliance Jio,INDJ6
+405859,India,Reliance Jio,INDJ7
+405860,India,Reliance Jio,INDJ8
+405861,India,Reliance Jio,INDJ9
+405862,India,Reliance Jio,INDJL
+405863,India,Reliance Jio,INDJM
+405864,India,Reliance Jio,INDJN
+405865,India,Reliance Jio,INDJO
+405866,India,Reliance Jio,INDJP
+405867,India,Reliance Jio,INDJQ
+405868,India,Reliance Jio,INDJR
+405869,India,Reliance Jio,INDJS
+405870,India,Reliance Jio,INDJT
+405871,India,Reliance Jio,INDJU
+405872,India,Reliance Jio,INDJV
+405873,India,Reliance Jio,INDJW
+405874,India,Reliance Jio,INDJX
+708040,Honduras,Digicel,HNDDC
+714020,Panama,Movistar,PANMS
+732111,Colombia,Tigo,COLCO
+732123,Colombia,Movistar,COLTM
+???,International,Vodafone Maritime,MLTMA
+???,Spain,Vodafone,ESPON
